@@ -1,0 +1,2 @@
+py GoogleDDNS.py
+pause
